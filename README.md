@@ -3,4 +3,5 @@
 + npm install
 + node serverapi.js
 + webpack -w
++ webpack -p
 
