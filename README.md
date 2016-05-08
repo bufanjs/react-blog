@@ -1,7 +1,5 @@
-# 基于react,webpack,nodejs,koa2的博客系统
+# react-blog
 
 + npm install
-+ node serverapi.js
-+ webpack -w
-+ webpack -p
-
++ 启动前端热加载:node start
++ 启动后端api
