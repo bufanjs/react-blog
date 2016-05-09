@@ -1,5 +1,5 @@
 # react-blog
 
 + npm install
-+ 启动前端热加载:node start
-+ 启动后端api
++ 启动项目:node start
++ 前端页面端口为8000 后端api端口为8080
