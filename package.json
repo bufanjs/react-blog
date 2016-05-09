@@ -4,7 +4,7 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node hot.js",
+    "start": "node hot.js & nodemon api/app.js",
     "build": "webpack -p --config webpack.config.build.js"
   },
   "author": "bufan",
